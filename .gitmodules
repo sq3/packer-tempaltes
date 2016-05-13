@@ -4,3 +4,9 @@
 [submodule "packer-ubuntu1404"]
 	path = packer-ubuntu1404
 	url = git@github.com:sq3/packer-ubuntu1404.git
+[submodule "packer-windows"]
+	path = packer-windows
+	url = git@github.com:sq3/packer-windows.git
+[submodule "packer-ubuntu-1604"]
+	path = packer-ubuntu-1604
+	url = git@github.com:sq3/packer-ubuntu-1604.git
